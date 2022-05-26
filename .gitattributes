@@ -1,0 +1,14 @@
+# Default
+*               text=auto
+# Explicit
+*.css           text eol=lf
+*.json          text eol=lf
+*.php           text eol=lf
+*.sql           text eol=lf
+*.ini           text eol=lf
+.htaccess       text eol=lf
+*.md            text eol=lf
+*.lock          text eol=lf
+# Git
+.gitattributes  text eol=lf
+.gitignore      text eol=lf

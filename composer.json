@@ -1,0 +1,30 @@
+{
+    "name": "devboard/devboard",
+    "description": "Virtual whiteboard made for web development.",
+    "version": "0.3.0",
+    "type": "project",
+    "keywords": ["php"],
+    "homepage": "https://gitlab.com/k.serbouty/devboard/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Karim Serbouty",
+            "email": "serbouty.dev@protonmail.com",
+            "homepage": "https://gitlab.com/k.serbouty/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://gitlab.com/k.serbouty/devboard/-/issues",
+        "email": "serbouty.dev@protonmail.com"
+    },
+    "require": {
+        "ext-pdo": "*",
+        "ext-ctype": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Devboard\\": "src/"
+        }
+    }
+}

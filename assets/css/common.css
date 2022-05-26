@@ -1,0 +1,124 @@
+html {
+    min-height: 100%;
+    position: relative;
+}
+
+body {
+    margin: 0;
+}
+
+nav {
+    padding: 0.5em;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.modal-form {
+    padding: 1em;
+}
+
+.btn-logout {
+    width: 100%;
+}
+
+.btn-add,
+.btn-edit,
+.btn-remove {
+    margin: 2em 0;
+    width: 100%;
+}
+
+.login-section {
+    display: inline-flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 20em;
+    height: 100%;
+}
+
+.login-card {
+    width: 400px;
+    height: 450px;
+}
+
+.login-card h2 {
+    padding: 1.5em;
+}
+
+.login-form {
+    padding: 1em 2em;
+    margin-bottom: 0.5em;
+}
+
+.login-form button {
+    width: 100%;
+    margin: 2.5em 0;
+}
+
+.logout-form {
+    padding: 1em;
+}
+
+.logout-form input {
+    display: none;
+}
+
+.workspace {
+    padding: 8em 5em;
+}
+
+.ws-project {
+    margin: 3em 0 0 3em;
+    width: 300px;
+    height: 200px;
+    border: grey dashed 2px !important;
+}
+
+.ws-project .card {
+    height: 100%;
+}
+
+.ws-add {
+    padding: 0.5em;
+    margin: 8em 5em 12em 5em;
+    border: grey dashed 2px !important;
+    border-radius: 5px;
+}
+
+.ws-add div {
+    width: 100%;
+}
+
+.not-found {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vw;
+}
+
+.bi {
+    font-size: 1.3em;
+}
+
+.bi-person-circle {
+    padding: 0 0.4em;
+}
+
+.bi-plus-circle {
+    padding: 0.3em;
+    font-size: 1.7em;
+    color: green;
+}

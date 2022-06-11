@@ -1,4 +1,8 @@
-# Devboard
+# Devboard with PHP 7
+
+Virtual whiteboard made for web development.
+
+> Discontinued.
 
 ## Requirements
 

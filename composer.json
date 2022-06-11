@@ -3,19 +3,19 @@
     "description": "Virtual whiteboard made for web development.",
     "version": "0.3.0",
     "type": "project",
-    "keywords": ["php"],
-    "homepage": "https://gitlab.com/k.serbouty/devboard/",
+    "keywords": ["php", "php7"],
+    "homepage": "https://github.com/kserbouty/devboard-php",
     "license": "MIT",
     "authors": [
         {
             "name": "Karim Serbouty",
             "email": "serbouty.dev@protonmail.com",
-            "homepage": "https://gitlab.com/k.serbouty/",
+            "homepage": "https://github.com/kserbouty",
             "role": "Developer"
         }
     ],
     "support": {
-        "issues": "https://gitlab.com/k.serbouty/devboard/-/issues",
+        "issues": "https://github.com/kserbouty/devboard-php/issues",
         "email": "serbouty.dev@protonmail.com"
     },
     "require": {
